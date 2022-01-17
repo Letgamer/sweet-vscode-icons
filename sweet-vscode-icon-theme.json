@@ -34,9 +34,6 @@
     "_zip_dark": {
       "iconPath": "./icons/zip_dark.svg"
     },
-    "_image_dark": {
-      "iconPath": "./icons/image_dark.svg"
-    },
     "_database_dark": {
       "iconPath": "./icons/database_dark.svg"
     },
@@ -85,9 +82,6 @@
     "_zip_light": {
       "iconPath": "./icons/zip_light.svg"
     },
-    "_image_light": {
-      "iconPath": "./icons/image_light.svg"
-    },
     "_database_light": {
       "iconPath": "./icons/database_light.svg"
     },
@@ -102,6 +96,9 @@
     },
     "_git_light": {
       "iconPath": "./icons/git_light.svg"
+    },
+    "_image": {
+      "iconPath": "./icons/image.svg"
     }
   },
   "folder": "_folder_dark",
@@ -113,10 +110,10 @@
     "scss": "_hash_dark",
     "html": "_html_dark",
     "xml": "_html_dark",
-    "png": "_image_dark",
-    "svg": "_image_dark",
-    "jpg": "_image_dark",
-    "jpeg": "_image_dark",
+    "png": "_image",
+    "svg": "_image",
+    "jpg": "_image",
+    "jpeg": "_image",
     "md": "_book_dark",
     "json": "_database_dark",
     "graphql": "_database_dark",
@@ -142,6 +139,7 @@
     "handlebars": "_code_dark",
     "html": "_code_dark",
     "properties": "_code_dark",
+    "jade": "_code_dark",
     "java": "_code_dark",
     "javascriptreact": "_code_dark",
     "javascript": "_code_dark",
@@ -154,7 +152,6 @@
     "perl": "_code_dark",
     "php": "_code_dark",
     "powershell": "_terminal_dark",
-    "jade": "_code_dark",
     "python": "_code_dark",
     "ruby": "_code_dark",
     "rust": "_code_dark",
@@ -188,10 +185,10 @@
       "scss": "_hash_light",
       "html": "_html_light",
       "xml": "_html_light",
-      "png": "_image_light",
-      "svg": "_image_light",
-      "jpg": "_image_light",
-      "jpeg": "_image_light",
+      "png": "_image",
+      "svg": "_image",
+      "jpg": "_image",
+      "jpeg": "_image",
       "md": "_book_light",
       "json": "_database_light",
       "graphql": "_database_light",
@@ -217,6 +214,7 @@
       "handlebars": "_code_light",
       "html": "_code_light",
       "properties": "_code_light",
+      "jade": "_code_light",
       "java": "_code_light",
       "javascriptreact": "_code_light",
       "javascript": "_code_light",
@@ -229,7 +227,6 @@
       "perl": "_code_light",
       "php": "_code_light",
       "powershell": "_terminal_light",
-      "jade": "_code_light",
       "python": "_code_light",
       "ruby": "_code_light",
       "rust": "_code_light",
