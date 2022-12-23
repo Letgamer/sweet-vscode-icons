@@ -106,6 +106,9 @@
     "_image": {
       "iconPath": "./icons/image.svg"
     },
+    "_python": {
+      "iconPath": "./icons/python.svg"
+    },
     "_rust": {
       "iconPath": "./icons/rust.svg"
     },
@@ -166,7 +169,7 @@
     "perl": "_code_dark",
     "php": "_code_dark",
     "powershell": "_terminal_dark",
-    "python": "_code_dark",
+    "python": "_python",
     "ruby": "_code_dark",
     "rust": "_rust",
     "scss": "_code_dark",
@@ -245,7 +248,7 @@
       "perl": "_code_light",
       "php": "_code_light",
       "powershell": "_terminal_light",
-      "python": "_code_light",
+      "python": "_python",
       "ruby": "_code_light",
       "rust": "_rust",
       "scss": "_code_light",
