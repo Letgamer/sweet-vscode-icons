@@ -112,6 +112,9 @@
     "_rust": {
       "iconPath": "./icons/rust.svg"
     },
+    "_svelte": {
+      "iconPath": "./icons/svelte.svg"
+    },
     "_wgpu": {
       "iconPath": "./icons/wgpu.svg"
     }
@@ -140,7 +143,8 @@
     "zshrc": "_terminal_dark",
     "lock": "_lock_dark",
     "log": "_info_dark",
-    "snap": "_camera_dark"
+    "snap": "_camera_dark",
+    "svelte": "_svelte"
   },
   "languageIds": {
     "bat": "_terminal_dark",
@@ -175,6 +179,7 @@
     "scss": "_code_dark",
     "shellscript": "_terminal_dark",
     "sql": "_database_dark",
+    "svelte": "_svelte",
     "swift": "_code_dark",
     "typescript": "_code_dark",
     "typescriptreact": "_code_dark",
@@ -214,6 +219,7 @@
       "json": "_database_light",
       "graphql": "_database_light",
       "sqlite": "_database_light",
+      "svelte": "_svelte",
       "env": "_settings_light",
       "env.example": "_settings_light",
       "zshrc": "_terminal_light",
@@ -254,6 +260,7 @@
       "scss": "_code_light",
       "shellscript": "_terminal_light",
       "sql": "_database_light",
+      "svelte": "_svelte",
       "swift": "_code_light",
       "typescript": "_code_light",
       "typescriptreact": "_code_light",
