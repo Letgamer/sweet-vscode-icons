@@ -8,14 +8,14 @@
 		"color": "#191925",
 		"theme": "dark"
 	},
-	"publisher": "EliverLara",
+	"publisher": "Letgamer",
 	"author": {
-		"name": "ELiver Lara",
-		"url": "https://github.com/EliverLara",
-		"email": "eliverlara@gmail.com"
+		"name": "Alex Stephan",
+		"url": "https://github.com/Letgamer",
+		"email": "alexstephan005@@gmail.com"
 	},
 	"repository": {
-		"url": "https://github.com/EliverLara/sweet-vscode-icons"
+		"url": "https://github.com/Letgamer/sweet-vscode-icons"
 	},
   "engines": {
     "vscode": "^1.39.0"
@@ -41,6 +41,6 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/EliverLara/sweet-vscode-icons/issues"
+    "url": "https://github.com/Letgamer/sweet-vscode-icons/issues"
   }
 }
