@@ -13,7 +13,7 @@ A colorful icon set for vscode based on the awesome [vscode-quill-icons](https:/
 1. Navigate to File > Preferences > File icon Theme > **sweet vscode icons**
 
 ## Forked
-Please not that this is only a fork of the original Theme to provide support for vscodium!
+Please not that this is only a fork of the original Icon Set to provide support for vscodium!
 
 ## License
 
